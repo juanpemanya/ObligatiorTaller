@@ -4,3 +4,4 @@ buen dia
 buenas noches
 america
 latam
+europa
