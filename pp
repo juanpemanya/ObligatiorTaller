@@ -8,3 +8,4 @@ europa
 mundo
 pepei
 jp
+clase
