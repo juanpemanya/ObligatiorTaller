@@ -7,3 +7,4 @@ latam
 europa
 mundo
 pepei
+jp
